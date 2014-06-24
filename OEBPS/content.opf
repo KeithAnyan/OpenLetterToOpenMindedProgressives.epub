@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:4b9dd6b3-b4e4-4bf1-ae05-02d663ddffc3</dc:identifier>
+    <dc:title>An Open Letter to Open-Minded Progressives</dc:title>
+    <dc:creator opf:role="aut">Mencius Moldbug</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:date opf:event="modification">2014-06-23</dc:date>
+    <dc:contributor opf:role="aut">Mencius Moldbug</dc:contributor>
+    <dc:contributor opf:role="edt">@jbboehr</dc:contributor>
+    <meta content="0.7.4" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/ol3-jacobite-history-of-world.html" id="ol3-jacobite-history-of-world.html" media-type="application/xhtml+xml" />
+    <item href="Text/ol4-dr-johnsons-hypothesis.html" id="ol4-dr-johnsons-hypothesis.html" media-type="application/xhtml+xml" />
+    <item href="Text/ol5-shortest-way-to-world-peace.html" id="ol5-shortest-way-to-world-peace.html" media-type="application/xhtml+xml" />
+    <item href="Text/ol6-lost-theory-of-government.html" id="ol6-lost-theory-of-government.html" media-type="application/xhtml+xml" />
+    <item href="Text/ol7-ugly-truth-about-government.html" id="ol7-ugly-truth-about-government.html" media-type="application/xhtml+xml" />
+    <item href="Text/ol8-reset-is-not-revolution.html" id="ol8-reset-is-not-revolution.html" media-type="application/xhtml+xml" />
+    <item href="Text/ol9-how-to-uninstall-cathedral.html" id="ol9-how-to-uninstall-cathedral.html" media-type="application/xhtml+xml" />
+    <item href="Text/olxiii-tactics-and-structures-of-any.html" id="olxiii-tactics-and-structures-of-any.html" media-type="application/xhtml+xml" />
+    <item href="Text/olxii-what-is-to-be-done.html" id="olxii-what-is-to-be-done.html" media-type="application/xhtml+xml" />
+    <item href="Text/olxi-truth-about-left-and-right.html" id="olxi-truth-about-left-and-right.html" media-type="application/xhtml+xml" />
+    <item href="Text/olxiv-rules-for-reactionaries.html" id="olxiv-rules-for-reactionaries.html" media-type="application/xhtml+xml" />
+    <item href="Text/olx-simple-sovereign-bankruptcy.html" id="olx-simple-sovereign-bankruptcy.html" media-type="application/xhtml+xml" />
+    <item href="Text/open-letter-pt-2-more-historical.html" id="open-letter-pt-2-more-historical.html" media-type="application/xhtml+xml" />
+    <item href="Text/open-letter-to-open-minded-progressives.html" id="open-letter-to-open-minded-progressives.html" media-type="application/xhtml+xml" />
+    <item href="Text/title.html" id="title.html" media-type="application/xhtml+xml" />
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css" />
+    <item href="Fonts/philosopher.ttf" id="philosopher.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-bold.ttf" id="philosopher-bold.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-italic.ttf" id="philosopher-italic.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-italic-bold.ttf" id="philosopher-italic-bold.ttf" media-type="application/x-font-ttf" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="title.html" />
+    <itemref idref="open-letter-to-open-minded-progressives.html" />
+    <itemref idref="open-letter-pt-2-more-historical.html" />
+    <itemref idref="ol3-jacobite-history-of-world.html" />
+    <itemref idref="ol4-dr-johnsons-hypothesis.html" />
+    <itemref idref="ol5-shortest-way-to-world-peace.html" />
+    <itemref idref="ol6-lost-theory-of-government.html" />
+    <itemref idref="ol7-ugly-truth-about-government.html" />
+    <itemref idref="ol8-reset-is-not-revolution.html" />
+    <itemref idref="ol9-how-to-uninstall-cathedral.html" />
+    <itemref idref="olx-simple-sovereign-bankruptcy.html" />
+    <itemref idref="olxi-truth-about-left-and-right.html" />
+    <itemref idref="olxii-what-is-to-be-done.html" />
+    <itemref idref="olxiii-tactics-and-structures-of-any.html" />
+    <itemref idref="olxiv-rules-for-reactionaries.html" />
+  </spine>
+  <guide />
+</package>
