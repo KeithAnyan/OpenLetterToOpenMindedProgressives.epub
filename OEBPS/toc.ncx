@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
  "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:4b9dd6b3-b4e4-4bf1-ae05-02d663ddffc3" />
-    <meta name="dtb:depth" content="1" />
-    <meta name="dtb:totalPageCount" content="0" />
-    <meta name="dtb:maxPageNumber" content="0" />
+    <meta content="urn:uuid:4b9dd6b3-b4e4-4bf1-ae05-02d663ddffc3" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
   </head>
   <docTitle>
     <text>Unknown</text>
@@ -16,85 +16,85 @@
       <navLabel>
         <text>An open letter to open-minded progressives (part 1)</text>
       </navLabel>
-      <content src="Text/open-letter-to-open-minded-progressives.html" />
+      <content src="Text/open-letter-to-open-minded-progressives.html"/>
     </navPoint>
     <navPoint id="navPoint-2" playOrder="2">
       <navLabel>
         <text>Open letter pt. 2: more historical anomalies</text>
       </navLabel>
-      <content src="Text/open-letter-pt-2-more-historical.html" />
+      <content src="Text/open-letter-pt-2-more-historical.html"/>
     </navPoint>
     <navPoint id="navPoint-3" playOrder="3">
       <navLabel>
         <text>OL3: the Jacobite history of the world</text>
       </navLabel>
-      <content src="Text/ol3-jacobite-history-of-world.html" />
+      <content src="Text/ol3-jacobite-history-of-world.html"/>
     </navPoint>
     <navPoint id="navPoint-4" playOrder="4">
       <navLabel>
         <text>OL4: Dr. Johnson's hypothesis</text>
       </navLabel>
-      <content src="Text/ol4-dr-johnsons-hypothesis.html" />
+      <content src="Text/ol4-dr-johnsons-hypothesis.html"/>
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
         <text>OL5: the shortest way to world peace</text>
       </navLabel>
-      <content src="Text/ol5-shortest-way-to-world-peace.html" />
+      <content src="Text/ol5-shortest-way-to-world-peace.html"/>
     </navPoint>
     <navPoint id="navPoint-6" playOrder="6">
       <navLabel>
         <text>OL6: the lost theory of government</text>
       </navLabel>
-      <content src="Text/ol6-lost-theory-of-government.html" />
+      <content src="Text/ol6-lost-theory-of-government.html"/>
     </navPoint>
     <navPoint id="navPoint-7" playOrder="7">
       <navLabel>
         <text>OL7: the ugly truth about government</text>
       </navLabel>
-      <content src="Text/ol7-ugly-truth-about-government.html" />
+      <content src="Text/ol7-ugly-truth-about-government.html"/>
     </navPoint>
     <navPoint id="navPoint-8" playOrder="8">
       <navLabel>
         <text>OL8: a reset is not a revolution</text>
       </navLabel>
-      <content src="Text/ol8-reset-is-not-revolution.html" />
+      <content src="Text/ol8-reset-is-not-revolution.html"/>
     </navPoint>
     <navPoint id="navPoint-9" playOrder="9">
       <navLabel>
         <text>OL9: how to uninstall a cathedral</text>
       </navLabel>
-      <content src="Text/ol9-how-to-uninstall-cathedral.html" />
+      <content src="Text/ol9-how-to-uninstall-cathedral.html"/>
     </navPoint>
     <navPoint id="navPoint-10" playOrder="10">
       <navLabel>
         <text>OLX: a simple sovereign bankruptcy procedure</text>
       </navLabel>
-      <content src="Text/olx-simple-sovereign-bankruptcy.html" />
+      <content src="Text/olx-simple-sovereign-bankruptcy.html"/>
     </navPoint>
     <navPoint id="navPoint-11" playOrder="11">
       <navLabel>
         <text>OLXI: the truth about left and right</text>
       </navLabel>
-      <content src="Text/olxi-truth-about-left-and-right.html" />
+      <content src="Text/olxi-truth-about-left-and-right.html"/>
     </navPoint>
     <navPoint id="navPoint-12" playOrder="12">
       <navLabel>
         <text>OLXII: what is to be done?</text>
       </navLabel>
-      <content src="Text/olxii-what-is-to-be-done.html" />
+      <content src="Text/olxii-what-is-to-be-done.html"/>
     </navPoint>
     <navPoint id="navPoint-13" playOrder="13">
       <navLabel>
         <text>OLXIII: tactics and structures of any prospective restoration</text>
       </navLabel>
-      <content src="Text/olxiii-tactics-and-structures-of-any.html" />
+      <content src="Text/olxiii-tactics-and-structures-of-any.html"/>
     </navPoint>
     <navPoint id="navPoint-14" playOrder="14">
       <navLabel>
         <text>OLXIV: rules for reactionaries</text>
       </navLabel>
-      <content src="Text/olxiv-rules-for-reactionaries.html" />
+      <content src="Text/olxiv-rules-for-reactionaries.html"/>
     </navPoint>
   </navMap>
 </ncx>
