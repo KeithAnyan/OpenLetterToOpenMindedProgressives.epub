@@ -1,6 +1,11 @@
 
 ALL : OpenLetterToOpenMindedProgressives.epub OpenLetterToOpenMindedProgressives.mobi OpenLetterToOpenMindedProgressives.pdf
 
+clean:
+	rm -f OpenLetterToOpenMindedProgressives.epub
+	rm -f OpenLetterToOpenMindedProgressives.mobi
+	rm -f OpenLetterToOpenMindedProgressives.pdf
+
 OpenLetterToOpenMindedProgressives.epub : 
 	rm -f OpenLetterToOpenMindedProgressives.epub
 	zip -X0 OpenLetterToOpenMindedProgressives.epub mimetype
