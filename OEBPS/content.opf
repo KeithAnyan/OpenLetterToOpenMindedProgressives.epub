@@ -7,7 +7,9 @@
     <dc:language>en</dc:language>
     <dc:date opf:event="modification">2014-07-01</dc:date>
     <dc:contributor opf:role="aut">Mencius Moldbug</dc:contributor>
-    <dc:contributor opf:role="edt">@jbboehr</dc:contributor>
+    <dc:contributor opf:role="trc">@jbboehr</dc:contributor>
+    <dc:source>http://moldbuggery.blogspot.com/</dc:source>
+    <dc:source>http://unqualified-reservations.blogspot.com/</dc:source>
     <meta content="0.7.4" name="Sigil version" />
   </metadata>
   <manifest>
