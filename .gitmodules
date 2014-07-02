@@ -1,3 +1,0 @@
-[submodule "utils"]
-	path = utils
-	url = git@bitbucket.org:jbboehr/epub-tools.git
