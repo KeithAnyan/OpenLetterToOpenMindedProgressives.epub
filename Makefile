@@ -23,4 +23,5 @@ OpenLetterToOpenMindedProgressives.pdf: OpenLetterToOpenMindedProgressives.epub
 OpenLetterToOpenMindedProgressives.md: OpenLetterToOpenMindedProgressives.epub
 	rm -f OpenLetterToOpenMindedProgressives.md
 	ebook-convert OpenLetterToOpenMindedProgressives.epub OpenLetterToOpenMindedProgressives.txt --txt-output-formatting=markdown
-	mv OpenLetterToOpenMindedProgressives.txt OpenLetterToOpenMindedProgressives.md
+	cp -f OpenLetterToOpenMindedProgressives.txt OpenLetterToOpenMindedProgressives.md
+	rm -f OpenLetterToOpenMindedProgressives.txt
