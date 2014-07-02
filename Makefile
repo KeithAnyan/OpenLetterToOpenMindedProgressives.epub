@@ -1,5 +1,5 @@
 
-ALL : OpenLetterToOpenMindedProgressives.epub OpenLetterToOpenMindedProgressives.mobi OpenLetterToOpenMindedProgressives.pdf OpenLetterToOpenMindedProgressives.txt
+ALL : OpenLetterToOpenMindedProgressives.epub OpenLetterToOpenMindedProgressives.mobi OpenLetterToOpenMindedProgressives.pdf OpenLetterToOpenMindedProgressives.md
 
 clean:
 	rm -f OpenLetterToOpenMindedProgressives.epub
